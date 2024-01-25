@@ -1,0 +1,10 @@
+*{
+    font-size: small;
+    box-sizing: border-box;
+}
+body{
+    background-color: bisque;
+}
+p{
+    color: black;
+}
